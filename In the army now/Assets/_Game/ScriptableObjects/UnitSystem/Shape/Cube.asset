@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50b3bf80194005344b7a948c0ef08c49, type: 3}
+  m_Name: Cube
+  m_EditorClassIdentifier: 
+  _basicUnitStats: {fileID: 11400000, guid: 45ba826b664babd4e87a14b52d79d54c, type: 2}
+  _prefab: {fileID: 2869523077580398515, guid: 16860aec5b43fea4595e7e1180b82d47, type: 3}
